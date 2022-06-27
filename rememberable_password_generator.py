@@ -20,7 +20,7 @@ def run():
 		list_of_lists[j] = auxiliar
 		j = j + 1
 
-
+#test
 	print(list_of_lists)
 
 if __name__ == "__main__":
