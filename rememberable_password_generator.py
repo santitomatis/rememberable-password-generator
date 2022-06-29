@@ -21,29 +21,23 @@ def password_generator(nouns, amount_words, spaces, case):
 	if case == "r":
 		case = random.choice(CASES)
 
-	j = 0
 	for i in range(amount_words):
 		word = random.choice(nouns)
 		password.append(word)
 		if i != amount_words - 1:
 			password.append(char)
 		
-		# if i != amount_words - 1 and i != 0:
-		if i != 0:
-			j = j + 1
-		
+	for i in range(len(password)):
 		if case == "uc":
-			password[j] = password[j].upper
+			password[i] = password[i].upper()
 		
 		elif case == "lc":
-			password[j] = password[j].lower
+			password[i] = password[i].lower()
 
 		elif case == "c":
-			password[j] = password[j].capitalize
-	
-		j = j + 1
+			password[i] = password[i].capitalize()
 
-	password = "".join(password)
+	password = "".join(map(str, password))
 	return password
 			
 
@@ -72,6 +66,7 @@ def run():
 	password = password_generator(nouns, amount_words, spaces, case)
 	print("Your password is:")
 	print(password)
+	print("Remember that this password is case-senstive (if you copy and paste it, you're going to have to remember if it was uppercase, capitalized, etc the next time you log in)")
 
 if __name__ == "__main__":
 	run()
