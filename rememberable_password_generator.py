@@ -1,6 +1,5 @@
 import random
 import pandas as pd
-import string
 
 def file_to_list(file):
     rtn: object = []
