@@ -55,6 +55,7 @@ There are also some thing I already knew but this project gave me a deeper under
 As mentioned before, this is just a better version of the [regular password generator](https://github.com/santitomatis/password-generator) shown at a [Platzi course](https://platzi.com/cursos/python/)
 
 
+![certificadoCursoBasicoPython](https://user-images.githubusercontent.com/86212669/176564841-410e78cf-518f-4fe3-bb7b-a338679657e8.png)
 
-[diploma-python.pdf](https://github.com/santitomatis/rememberable-password-generator/files/9015171/diploma-python.pdf)
+
 
