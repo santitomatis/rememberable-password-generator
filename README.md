@@ -2,7 +2,7 @@
 This is a project similar to my [previous one](https://github.com/santitomatis/password-generator) (just a password generator) but this time I want the password that is created to be easier to remember, that's why this generator provides you a combination of nouns that you can remeber.
 
 ### Disclaimer
-**Please be aware that as mentioned later on, this is just a project made to help me learn some python, even doe it does work, if someone somehow knew that you used this script to generate your password *specially with the default settings* that person could just brute force your password**
+**Please be aware that as [mentioned later on](https://github.com/santitomatis/rememberable-password-generator#what-i-learned), this is just a project made to help me learn some python, even doe it does work, if someone somehow knew that you used this script to generate your password *specially with the default settings* that person could just brute force your password**
 
 ### Demo
 When you run this script you are going to be asked wether you like to configure advanced stuff or just go by default
@@ -52,7 +52,7 @@ There are also some thing I already knew but this project gave me a deeper under
 - Arrays and tuplas
 - string manipulation methods (upper() lower(), capitalize())
 
-As mentioned before, this is just a better version of the [regular password generator](https://github.com/santitomatis/password-generator) shown at a [Platzi course](https://platzi.com/cursos/python/)
+As [mentioned before](https://github.com/santitomatis/rememberable-password-generator#disclaimer), this is just a better version of the [regular password generator](https://github.com/santitomatis/password-generator) shown at a [Platzi course](https://platzi.com/cursos/python/)
 
 
 ![certificadoCursoBasicoPython](https://user-images.githubusercontent.com/86212669/176564841-410e78cf-518f-4fe3-bb7b-a338679657e8.png)
