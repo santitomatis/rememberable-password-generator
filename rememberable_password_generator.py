@@ -7,11 +7,10 @@ def file_to_list(file):
     rtn: object = file_object.read().splitlines()
     file_object.close()
     return list(filter(None, pd.unique(rtn).tolist())) # Remove Empty/Duplicates Values
-    pass
+	
 
 def run():
-    data_from_file: object = file_to_list('nouns.txt') 
-    print(data_from_file)
-
+	nouns: object = file_to_list('nouns.txt') 
+	# print(nouns[])
 if __name__ == "__main__":
-    run()
+	run()
