@@ -21,7 +21,7 @@ archives sidewalk objective
 Remember that this password is case-senstive (if you copy and paste it, you're going to have to remember if it was uppercase, capitalized, etc the next time you log in)
 ```
 
-In the other hand if you type y, the amount of words it hasamong other details are going to be custom
+In the other hand if you type y, the amount of words it has among other details are going to be custom
 
 ```
 Do you want to do some advanced configuration? Just type y/n (yes or no) y
