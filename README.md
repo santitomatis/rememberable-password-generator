@@ -48,7 +48,7 @@ I've learned a lot with this project, *mostly basic things but those things had 
 - How to transform a .txt file to an array with pandas
 - How to install pandas in WSL2
 
-There are also some thing I already knew but this project gave me a deeper understanding
+There are also some things I already knew but this project gave me a deeper understanding
 - Arrays and tuplas
 - string manipulation methods (upper() lower(), capitalize())
 
