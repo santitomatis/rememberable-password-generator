@@ -1,10 +1,10 @@
 # Rememberable Password Generator
 This is a project similar to my [previous one](https://github.com/santitomatis/password-generator) (just a password generator) but this time I want the password that is created to be easier to remember, that's why this generator provides you a combination of nouns that you can remeber.
 
-### Disclaimer
+## Disclaimer
 **Please be aware that as [mentioned later on](https://github.com/santitomatis/rememberable-password-generator#what-i-learned), this is just a project made to help me learn some python, even doe it does work, if someone somehow knew that you used this script to generate your password *specially with the default settings* that person could just brute force your password**
 
-### Demo
+## Demo
 When you run this script you are going to be asked wether you like to configure advanced stuff or just go by default
 
 ```
@@ -42,7 +42,7 @@ Remember that this password is case-senstive (if you copy and paste it, you're g
 
 *That's pretty much all there is to its functionality*
 
-### What I learned
+## What I learned
 I've learned a lot with this project, *mostly basic things but those things had to be learn a way or another*
 
 - How to transform a .txt file to an array with pandas
